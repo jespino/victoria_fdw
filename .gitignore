@@ -1,0 +1,6 @@
+*.so
+*.control
+*--*.sql
+go.work
+go.work.sum
+_pgtest/
